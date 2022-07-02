@@ -1,6 +1,6 @@
-# il vas nous falloir des applications pres installer desus
+# Il va nous falloir des applications pré-installées dessus
 
-Ikona https://apps.kde.org/fr/ikona/
-Filelight https://apps.kde.org/fr/filelight/
-KMix https://apps.kde.org/fr/kmix/
-Kaffeine https://apps.kde.org/fr/kaffeine/
+  *  :pencil2: Ikona https://apps.kde.org/fr/ikona/
+  *  :slot_machine: Filelight https://apps.kde.org/fr/filelight/
+  *  :headphones: KMix https://apps.kde.org/fr/kmix/
+  *  :clapper: Kaffeine https://apps.kde.org/fr/kaffeine/
